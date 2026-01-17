@@ -1,4 +1,4 @@
 # Network-Project
-Elay Shostak
-Linoy Ohana
+Elay Shostak,
+Linoy Ohana,
 Yuval David
